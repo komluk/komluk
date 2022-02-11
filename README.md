@@ -33,8 +33,8 @@ Here are some ideas to get you started:
 <img align="left" alt="Kubernetes" width="26px" src="https://github.com/komluk/komluk/blob/master/content/img/technologies/k8s.png" />
 <img align="left" alt="Azure DevOps" width="26px" src="https://github.com/komluk/komluk/blob/master/content/img/technologies/devops.png" />
 <img align="left" alt="Docker" width="26px" src="https://github.com/komluk/komluk/blob/master/content/img/technologies/docker.png" />
-
 <br />
+
 <img align="left" alt="Visual Studio" width="26px" src="https://github.com/komluk/komluk/blob/master/content/img/technologies/vs.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/komluk/komluk/blob/master/content/img/technologies/vscode.png" />
 <img align="left" alt="Terraform" width="26px" src="https://github.com/komluk/komluk/blob/master/content/img/technologies/terraform.png" />
