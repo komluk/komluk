@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 -->
 
 ### Programming Languages:
-<img align="left" alt="C#" width="26px" src="https://github.com/komluk/komluk/blob/master/content/img/languages/csharp.svg" />
+<img align="left" alt="C#" width="26px" src="/content/img/languages/csharp.svg" />
 <img align="left" alt=".NET Core" width="26px" src="https://github.com/komluk/komluk/blob/master/content/img/languages/netcore.svg" />
 <img align="left" alt="Python" width="26px" src="https://github.com/komluk/komluk/blob/master/content/img/languages/python.svg" />
 <img align="left" alt="HTML5" width="26px" src="https://github.com/komluk/komluk/blob/master/content/img/languages/html.svg" />
 <img align="left" alt="CSS" width="26px" src="https://github.com/komluk/komluk/blob/master/content/img/languages/css.svg" />
-<img align="left" alt="JavaScript" width="26px" src="https://github.com/komluk/komluk/blob/master/content/img/languages/js.svg" />
+<img align="left" alt="JavaScript" width="26px" src="https://github.com/komluk/komluk/blob/master/content/img/languages/javascript.svg" />
 <img align="left" alt="Angular" width="26px" src="https://github.com/komluk/komluk/blob/master/content/img/languages/angular.svg" />
 <img align="left" alt="Vue" width="26px" src="https://github.com/komluk/komluk/blob/master/content/img/languages/vue.svg" />
 <br />
