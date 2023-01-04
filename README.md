@@ -1,6 +1,6 @@
-### Hi there, I'm komluk 👋
+### Hi there, my name is Łukasz Komosa. 👋
 
-## I'm a Consultant, Architect and a Software Engineer!
+## I'm a Consultant, Architect and a Software Engineer with professional experience gathered in an IT consulting, financial systems and banking industry. 
 <!--
 **komluk/komluk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
