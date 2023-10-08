@@ -43,6 +43,10 @@ Here are some ideas to get you started:
 ### My HomeLab:
 <img align="left" alt="Proxmox" width="26px" src="/content/img/homelab/proxmox.png" />
 <img align="left" alt="Portainer" width="26px" src="/content/img/homelab/portainer.svg" />
-<img align="left" alt="Grafana" width="26px" src="/content/img/homelab/grafana.svg" />
+<img align="left" alt="Grafana" width="26px" src="/content/img/home lab/grafana.svg" />
 <img align="left" alt="Prometheus" width="26px" src="/content/img/homelab/prometheus.svg" />
 <img align="left" alt="Nginx Proxy Manager" width="26px" src="/content/img/homelab/nginxproxy.png" />
+
+## Github Stats
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=komluk&hide_border=true&layout=compact" align="center"/></div>
+<br/>
