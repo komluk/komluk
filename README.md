@@ -12,7 +12,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.komluk.com"><img src="https://img.shields.io/badge/Blog-komluk.com-1f6feb?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog" /></a>
+  <a href="https://www.komluk.com"><img src="https://img.shields.io/badge/Website-komluk.com-1f6feb?style=for-the-badge&logo=hashnode&logoColor=white" alt="Website" /></a>
+  <a href="https://komluk.github.io"><img src="https://img.shields.io/badge/Blog-komluk.github.io-CC0000?style=for-the-badge&logo=jekyll&logoColor=white" alt="Blog" /></a>
   <a href="https://github.com/komluk"><img src="https://img.shields.io/badge/GitHub-komluk-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <img src="https://komarev.com/ghpvc/?username=komluk&style=for-the-badge&color=blueviolet&label=Profile+Views" alt="Profile views" />
 </p>
