@@ -22,7 +22,8 @@
 ## 🧑‍💻 About me
 
 - 🏗️ **Two pillars, side by side.** I'm a senior **Cloud Architect & Software Engineer** (.NET, Azure/GCP, DevOps, microservices) — and I now build **agentic AI tooling** for Claude Code.
-- 🧭 Background in **IT consulting, financial systems & banking** — I care about systems that are correct, observable, and maintainable under real-world constraints.
+- 🧭 Background in **IT consulting, financial systems & banking, and now the energy sector** — I care about systems that are correct, observable, and maintainable under real-world constraints.
+- ⚡ Building software for the **energy sector** — for some of the world's largest companies across **nuclear, renewable, and oil & gas** energy.
 - 🤖 Currently most excited about **multi-agent orchestration**, the **Model Context Protocol (MCP)**, and self-hosted **LLM infrastructure**.
 - 🏠 I run a **Proxmox-based homelab** as my personal platform for experiments and self-hosted services.
 - ✍️ I write about architecture, cloud, and AI tooling at **[komluk.com](https://www.komluk.com)**.
