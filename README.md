@@ -132,7 +132,7 @@ A few self-hosted projects I'm actively developing:
 
 ## 🏠 Homelab
 
-A **Proxmox-based platform** I run at home for self-hosting and experimentation — self-hosted git, observability, and a reverse proxy in front of it all.
+A **Proxmox-based platform** I run at home for self-hosting and experimentation — self-hosted git, observability, network storage (TrueNAS), a personal cloud (Nextcloud), and a reverse proxy in front of it all.
 
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 ![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white)
@@ -140,6 +140,8 @@ A **Proxmox-based platform** I run at home for self-hosting and experimentation 
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Caddy](https://img.shields.io/badge/Caddy-1F88C0?style=for-the-badge&logo=caddy&logoColor=white)
 ![Gitea](https://img.shields.io/badge/Gitea-609926?style=for-the-badge&logo=gitea&logoColor=white)
+![TrueNAS](https://img.shields.io/badge/TrueNAS-0095D5?style=for-the-badge&logo=truenas&logoColor=white)
+![Nextcloud](https://img.shields.io/badge/Nextcloud-0082C9?style=for-the-badge&logo=nextcloud&logoColor=white)
 
 ---
 
