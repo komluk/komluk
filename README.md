@@ -26,7 +26,7 @@
 - ⚡ Building software for the **energy sector** — for some of the world's largest companies across **nuclear, renewable, and oil & gas** energy.
 - 🤖 Currently most excited about **multi-agent orchestration**, the **Model Context Protocol (MCP)**, and self-hosted **LLM infrastructure**.
 - 🏠 I run a **Proxmox-based homelab** as my personal platform for experiments and self-hosted services.
-- ✍️ I write about architecture, cloud, and AI tooling at **[komluk.com](https://www.komluk.com)**.
+- ✍️ I write about architecture, cloud, and AI tooling at **[komluk.com](https://www.komluk.com)** — and post dev/homelab notes on my **[GitHub Pages blog](https://komluk.github.io)**.
 - 📍 Based in **Warsaw, Poland**.
 
 ---
@@ -53,10 +53,6 @@ It turns Claude Code into a team: an analyst scopes the work, an architect desig
 |---------|------------|
 | [**scaffolding**](https://github.com/komluk/scaffolding) ⭐ | Flagship multi-agent orchestration plugin for Claude Code |
 | [**scaffolding.template**](https://github.com/komluk/scaffolding.template) | Project template for scaffolding-based repos |
-| [**agents.template**](https://github.com/komluk/agents.template) | Agent configuration template |
-| [**Aspire.Template**](https://github.com/komluk/Aspire.Template) | .NET Aspire starter |
-
-Plus Terraform modules, a small Go [`doodle`](https://github.com/komluk/doodle) experiment, and more — **[see all 49 repos on my profile →](https://github.com/komluk?tab=repositories)**
 
 ---
 
@@ -163,4 +159,5 @@ A **Proxmox-based platform** I run at home for self-hosting and experimentation 
 <p align="left">
   <a href="https://www.komluk.com"><img src="https://img.shields.io/badge/Website-komluk.com-1f6feb?style=for-the-badge&logo=hashnode&logoColor=white" alt="Website" /></a>
   <a href="https://github.com/komluk"><img src="https://img.shields.io/badge/GitHub-komluk-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://komluk.github.io"><img src="https://img.shields.io/badge/Blog-komluk.github.io-CC0000?style=for-the-badge&logo=jekyll&logoColor=white" alt="GitHub Pages blog" /></a>
 </p>
