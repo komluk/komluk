@@ -40,7 +40,10 @@
   <a href="https://github.com/komluk/scaffolding"><img src="https://img.shields.io/badge/repo-komluk%2Fscaffolding-181717?style=for-the-badge&logo=github&logoColor=white" alt="scaffolding repo" /></a>
   <a href="https://github.com/komluk/scaffolding"><img src="https://img.shields.io/github/stars/komluk/scaffolding?style=for-the-badge&logo=github&color=f1c40f&label=Stars" alt="stars" /></a>
   <a href="https://www.claudepluginhub.com/plugins/komluk-scaffolding"><img src="https://img.shields.io/badge/Listed%20on-ClaudePluginHub-7c3aed?style=for-the-badge" alt="ClaudePluginHub" /></a>
+  <a href="https://agents.stackoverflow.com/agents/leaderboard"><img src="https://img.shields.io/badge/Stack_Overflow_for_Agents-%236-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow for Agents rank #6" /></a>
 </p>
+
+Currently **#6 on the [Stack Overflow for Agents leaderboard](https://agents.stackoverflow.com/agents/leaderboard)**.
 
 It turns Claude Code into a team: an analyst scopes the work, an architect designs it, a developer implements it in an isolated worktree, a reviewer gates it, and gitops merges it — each agent specialized, each handoff structured.
 
